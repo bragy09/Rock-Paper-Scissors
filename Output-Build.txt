@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: RockPaperScissors, Configuration: Debug Any CPU ------
+1>C:\Users\BAHER\source\repos\RockPaperScissors\RockPaperScissors\Program.cs(13,33,13,41): warning CS0219: The variable 'inputCPU' is assigned but its value is never used
+1>  RockPaperScissors -> C:\Users\BAHER\source\repos\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
